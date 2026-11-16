@@ -15,14 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the site. Use `pnpm 
 
 ## Personalize the portfolio
 
-The site uses only the details supplied for the portfolio so far. Before presenting it as a finished personal account, update the bracketed prompts in `app/page.tsx` with your own details:
-
-- Add why you joined EIF and what you hoped to learn.
-- Add a specific learning moment, milestone, or change in how you approach data.
-- Describe your personal contributions to project SD-026 and list its actual deliverables.
-- Complete the reflection prompts with your own achievement, challenge, and takeaway.
-
-No fellowship events, individual project contributions, or personal reflections are assumed on your behalf.
+The current copy is based on the details supplied for Jesus’s EIF experience and SD-026 project. There are no unfinished content prompts in the current site. Update the content arrays and sections in `app/page.tsx` when details change or when adding another verified EIF project.
 
 ## Project structure
 
